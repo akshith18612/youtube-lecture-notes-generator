@@ -1,0 +1,5 @@
+streamlit>=1.40,<2.0
+google-genai>=1.0.0
+yt-dlp>=2025.1.0
+youtube-transcript-api>=1.0.0
+supabase>=2.15.0

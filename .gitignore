@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+gemini_key.txt
+.env
+.venv/
+__pycache__/
+*.py[cod]
+notes/
+.DS_Store
